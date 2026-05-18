@@ -1,1 +1,15 @@
-{"name":"fitness-os","version":"0.1.0","private":true,"dependencies":{"react":"^19.0.0","react-dom":"^19.0.0","react-scripts":"5.0.1","lucide-react":"^0.263.1"},"scripts":{"start":"react-scripts start","build":"react-scripts build"},"eslintConfig":{"extends":"react-app"},"browserslist":{"production":[">0.2%","not dead","not op_mini all"]}}
+{
+  "name": "fitness-os",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "5.0.1",
+    "lucide-react": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
